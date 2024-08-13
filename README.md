@@ -20,20 +20,6 @@
 
 ---
 
-<h1 align="center">STATS</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RaviSolanki27" alt="ravisolanki" /> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravisolanki27&theme=gotham&show_icons=true" alt="ravisolanki" />
-
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ravisolanki27&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ravisolanki" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisolanki27&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="ravisolanki" /></p>
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ravisolanki27&theme=react-dark&hide_border=true&area=true)
-
----
-
 <h1 align="center">SOCIAL</h1>
 
 <div align="center">
