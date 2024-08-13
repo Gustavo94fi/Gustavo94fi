@@ -1,68 +1,89 @@
-![](https://komarev.com/ghpvc/?username=Birunthaban)
+<h1 align="center">Hi 👋, I'm Raviraj Solanki</h1>
+<h3 align="center">I'm an Engineer and a 22-year old technical enthusiast who does web development, Blogging and Designing. Passionate to contribute open-source projects and create cool content.</h3>
 
-### Hi there 👋 I'm Birunthaban Sarventhiran,
+---
 
-I'm a second year software engineering undergraduate at University of Kelaniya and I'm also following a applied statistics diploma at IASSL.
+- 🔭 I’m currently working on [Portfolio website]()
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+- 🌱 I’m currently learning **M E R N**
 
-## My Skills Include
+- 📫 How to reach me **ravisolanki9322@gmail.com**
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</span>
+---
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
+<h1 align="center">TECHNOLOGY</h1>
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
-</span>
-
-
-
-
-    
-
-<hr>
-<p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
-   <br>
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 </p>
-------
-Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
 
-Last Edited on: 28/01/2023
+---
+
+<h1 align="center">STATS</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RaviSolanki27" alt="ravisolanki" /> </p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravisolanki27&theme=gotham&show_icons=true" alt="ravisolanki" />
+
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ravisolanki27&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ravisolanki" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisolanki27&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="ravisolanki" /></p>
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ravisolanki27&theme=react-dark&hide_border=true&area=true)
+
+---
+<h1 align="center">PROJECTS</h1>
+
+<h4>1. Todo app using ReactJS </h4>
+
+<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/todo.png" ></a>
+
+
+<h4>2. Random Quote generator using NodeJs </h4>
+
+<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/qoutegenerator.png" ></a>
+
+---
+
+<h1 align="center">BLOGS</h1>
+<a href="https://www.linkedin.com/pulse/what-5-things-you-must-do-your-first-paycheck-raviraj-solanki/" target="blank">
+<img src="https://media-exp1.licdn.com/dms/image/C4D12AQHVBf5FWRnp0w/article-cover_image-shrink_720_1280/0/1638538607562?e=1649289600&v=beta&t=nsF1Hf0YkmXip-kGt031yqNAHaOD3TkuNSl4hVwF52c" ></a>
+
+
+---
+
+<h1 align="center">SOCIAL</h1>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/ravirajsolanki27/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://twitter.com/Ravirajsolanki_" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
+</a>
+
+<a href="https://codepen.io/ravisolanki27" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
+</a>
+
+<a href="https://www.instagram.com/ravi_27.01" target="blank">
+<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem">
+</a>
+
+<a href="https://www.youtube.com/channel/UCpBGxQbi-wahJ7wRaG80E6w" target="blank">
+<img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
+</a>
+
+</div>
+
+---
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
