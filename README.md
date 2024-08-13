@@ -27,5 +27,3 @@
 
 </div>
 
----
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
