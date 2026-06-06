@@ -27,7 +27,6 @@
 </p>
 <p align="center">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavo94fi&theme=tokyonight" alt="github stats" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavo94fi&theme=tokyonight" alt="top languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo94fi&theme=tokyonight&hide_border=true" alt="streak" />
