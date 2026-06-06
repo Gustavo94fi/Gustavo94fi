@@ -1,7 +1,3 @@
-<!--
-  ⚠️ BEFORE PUBLISHING: replace TU_USUARIO with your exact GitHub username
-  (check github.com/TU_USUARIO). It appears in 3 places below, marked with ⬅️
--->
 <h1 align="center">Hi 👋, I'm Gustavo Iñegue</h1>
 <p align="center">
   Software Developer based in Mar del Plata, Argentina 🇦🇷
@@ -15,7 +11,7 @@
 🛠️ Full-stack development across web and mobile
 🎮 Game development with Godot
 ⚙️ Backend services and SaaS architecture
-🌱 Currently deepening React and modern backend patterns
+🌱 Working with React and modern backend patterns
 🤖 Exploring AI-assisted development workflows
 
 
@@ -27,14 +23,14 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <!-- ⬅️ replace TU_USUARIO above. count_private=true so your private repos count toward stats -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-  <!-- ⬅️ replace TU_USUARIO above -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavo94fi&theme=tokyonight" alt="profile summary" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="streak" />
-  <!-- ⬅️ replace TU_USUARIO above -->
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavo94fi&theme=tokyonight" alt="github stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavo94fi&theme=tokyonight" alt="top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo94fi&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <h2 align="center">📫 Get in touch</h2>
@@ -46,8 +42,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
-<!--
-  ⚠️ Verify your LinkedIn URL: the "ñ" in the slug may not resolve.
-  Open your profile in the browser, copy the real URL from the address bar,
-  and paste it into the href above.
--->
